@@ -1,7 +1,7 @@
 # A-nonparametric-analysis-exercise-in-R
 This is an analysis of data from a study conducted to determine if a medication could be effective at reducing allergic symptoms.  These data represent symptom scores for a randomly selected day for each patient during a 10-week follow-up period.  Note that a placebo group, and three active dose groups were studied.  In addition, the current pollen count (the stimulus for symptoms) was also measured for the day that symptoms were collected.
 
-Variables (in column order):
+Variables (in column order): <br>
 obs      	patient ID
 itchy    	symptoms (1=none, 2=mild, 3=moderate, 4=severe)
 sneezy   	symptoms (1=none, 2=mild, 3=moderate, 4=severe)
